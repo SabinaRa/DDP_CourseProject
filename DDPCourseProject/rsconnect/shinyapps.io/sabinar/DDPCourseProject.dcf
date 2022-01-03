@@ -1,0 +1,13 @@
+name: DDPCourseProject
+title: DDPCourseProject
+username:
+account: sabinar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5390012
+bundleId: 5430264
+url: https://sabinar.shinyapps.io/DDPCourseProject/
+when: 1641229485.32568
+lastSyncTime: 1641229485.32568
+asMultiple: FALSE
+asStatic: FALSE
